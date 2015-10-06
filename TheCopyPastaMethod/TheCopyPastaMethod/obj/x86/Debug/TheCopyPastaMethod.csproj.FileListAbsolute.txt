@@ -1,0 +1,5 @@
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\TheCopyPastaMethod\bin\Debug\TheCopyPastaMethod.exe
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\TheCopyPastaMethod\bin\Debug\TheCopyPastaMethod.pdb
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\TheCopyPastaMethod\obj\x86\Debug\TheCopyPastaMethod.csprojResolveAssemblyReference.cache
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\TheCopyPastaMethod\obj\x86\Debug\TheCopyPastaMethod.exe
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\TheCopyPastaMethod\obj\x86\Debug\TheCopyPastaMethod.pdb

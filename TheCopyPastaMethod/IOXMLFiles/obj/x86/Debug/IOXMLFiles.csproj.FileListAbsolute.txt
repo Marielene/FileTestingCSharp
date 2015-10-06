@@ -1,0 +1,5 @@
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\IOXMLFiles\bin\Debug\IOXMLFiles.exe
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\IOXMLFiles\bin\Debug\IOXMLFiles.pdb
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\IOXMLFiles\obj\x86\Debug\IOXMLFiles.csprojResolveAssemblyReference.cache
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\IOXMLFiles\obj\x86\Debug\IOXMLFiles.exe
+C:\Users\J\Documents\Projects\TheCopyPastaMethod\IOXMLFiles\obj\x86\Debug\IOXMLFiles.pdb
